@@ -1,0 +1,1 @@
+# automated-web-security-header-scanner
